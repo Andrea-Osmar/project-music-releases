@@ -16,4 +16,4 @@ CSS
 
 # View it live
 
-Created by: Andrea Osmar & Therese Lindén https://andrea-therese-music-site.netlify.app
+Created by: Andrea Osmar & Therese Lindén, see it live [here] (https://andrea-therese-music-site.netlify.app)
